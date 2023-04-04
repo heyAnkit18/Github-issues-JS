@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  h1 {
+    font-size: 34px;
+    color:red;
+  }
+  ol {
+    width: 30%;
+    margin: auto;
+  }
+  li {
+    padding: 10px;
+    margin: 5px;
+    padding: 10px;
+    background-color:antiquewhite;
+  }
+  button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color:burlywood;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #3e8e41;
+  }
